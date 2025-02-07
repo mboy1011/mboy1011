@@ -1,6 +1,6 @@
 ## >Hello World! 👋🏻
 
-My name is Lyjieme or you can call me Jim and I'm here to share my personal and academic projects!
+My name is Lyjieme and I'm here to share my personal and academic projects!
 
 <div>
 <a href="https://github.com/mboy1011">
