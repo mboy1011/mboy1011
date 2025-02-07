@@ -10,19 +10,30 @@ My name is Lyjieme or you can call me Jim and I'm here to share my personal and 
   
 ## 💻 Technologies & Tools
 
-### Languages
+### Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/)
 [![My Skills](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
 [![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 [![My Skills](https://skillicons.dev/icons?i=php)](https://www.php.net/)
-  
+[![My Skills](https://skillicons.dev/icons?i=php)](https://openjdk.org/)
+
 ### Electronics & Robotics 
 [![My Skills](https://skillicons.dev/icons?i=raspberrypi)](https://www.raspberrypi.com/)
 [![My Skills](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)
 
 ### Cloud
+[![My Skills](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
+[![My Skills](https://skillicons.dev/icons?i=gcp)](https://cloud.google.com/)
 [![My Skills](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
+
+### Design & Creative Tools
+[![My Skills](https://skillicons.dev/icons?i=ps)](https://www.adobe.com/ph_en/products/photoshop.html)
+[![My Skills](https://skillicons.dev/icons?i=canva)](https://www.canva.com)
+
+### Video & Audio Production
+[![My Skills](https://skillicons.dev/icons?i=pr)](https://www.adobe.com/ph_en/products/premiere.html)
+[![My Skills](https://skillicons.dev/icons?i=au)](https://www.adobe.com/ph_en/products/audition.html)
 
 #
 ![](https://komarev.com/ghpvc/?username=mboy1011&color=blue)
