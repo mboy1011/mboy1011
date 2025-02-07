@@ -16,7 +16,7 @@ My name is Lyjieme or you can call me Jim and I'm here to share my personal and 
 [![My Skills](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
 [![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 [![My Skills](https://skillicons.dev/icons?i=php)](https://www.php.net/)
-[![My Skills](https://skillicons.dev/icons?i=php)](https://openjdk.org/)
+[![My Skills](https://skillicons.dev/icons?i=java)](https://openjdk.org/)
 
 ### Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.myqsl.com/)
