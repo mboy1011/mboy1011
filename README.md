@@ -18,9 +18,17 @@ My name is Lyjieme or you can call me Jim and I'm here to share my personal and 
 [![My Skills](https://skillicons.dev/icons?i=php)](https://www.php.net/)
 [![My Skills](https://skillicons.dev/icons?i=php)](https://openjdk.org/)
 
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.myqsl.com/)
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
+[![My Skills](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
+
 ### Electronics & Robotics 
 [![My Skills](https://skillicons.dev/icons?i=raspberrypi)](https://www.raspberrypi.com/)
 [![My Skills](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)
+
+### Content Delivery Network
+[![My Skills](https://skillicons.dev/icons?i=cloudflare)](https://www.cloudflare.com/)
 
 ### Cloud
 [![My Skills](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
@@ -29,7 +37,6 @@ My name is Lyjieme or you can call me Jim and I'm here to share my personal and 
 
 ### Design & Creative Tools
 [![My Skills](https://skillicons.dev/icons?i=ps)](https://www.adobe.com/ph_en/products/photoshop.html)
-[![My Skills](https://skillicons.dev/icons?i=canva)](https://www.canva.com)
 
 ### Video & Audio Production
 [![My Skills](https://skillicons.dev/icons?i=pr)](https://www.adobe.com/ph_en/products/premiere.html)
