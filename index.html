@@ -49,7 +49,7 @@
         <div class="container">
             <h2>My Projects</h2>
             <div class="project-grid">
-                <!-- Example Project -->
+                <!-- Project -->
                 <div class="project">
                     <img src="https://camo.githubusercontent.com/78e6810ed53f94b9b380a659ecae6f26715c1318cdaa928433377dd2fc0e4c2f/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f70726f78792f312a56376a474459535f39494c31723234515a797a6a36672e6a706567" alt="Project 1">
                     <h3>RFIDSys</h3>
@@ -57,14 +57,20 @@
                     <a href="https://github.com/mboy1011/RFIDSys" target="_blank">View on GitHub</a>
                 </div>
 		
-		<div class="project">
-		    <img src="https://scontent.fcgy1-2.fna.fbcdn.net/v/t15.5256-10/197349983_200261901954557_6464524253365956173_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=50ce42&_nc_ohc=fFs71NrzYkkQ7kNvgGWYdi2&_nc_oc=AdhLnYA3fQaKvUR3eieramoSm73uO29iBPV7CXIRrQhi92g2wP8hDX_E9JlQFNEJI3YCdm0w9_r83epM_Vbh-IIK&_nc_zt=23&_nc_ht=scontent.fcgy1-2.fna&_nc_gid=Ag-Q2ewgcea0jFyDw9g7Qdq&oh=00_AYAf9h-Tv2lt5Ka7hbDuPOwf_vQEfGCYjTQZK50lHp7HaQ&oe=67B9F54C" alt="Project 2">
-		    <h3>Virtual Graduation</h3>
-		    <p>I specialize in organizing and managing virtual graduation events, creating seamless and memorable experiences for graduates and their families. From selecting the right platform and coordinating schedules to producing engaging content and interactive elements, I ensure a smooth and professional online ceremony that celebrates academic achievements. My approach combines attention to detail, technical expertise, and creative solutions to make every virtual graduation an event to remember.</p>
-		    <a href="https://www.facebook.com/GingoogCityCollegesInc/videos/200257845288296" target="_blank">View on Facebook</a>
-		</div>
-                <!-- Add more projects here -->
+                <div class="project">
+                    <img src="https://scontent.fcgy1-2.fna.fbcdn.net/v/t15.5256-10/197349983_200261901954557_6464524253365956173_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&ccb=1-7&_nc_sid=50ce42&_nc_ohc=fFs71NrzYkkQ7kNvgGWYdi2&_nc_oc=AdhLnYA3fQaKvUR3eieramoSm73uO29iBPV7CXIRrQhi92g2wP8hDX_E9JlQFNEJI3YCdm0w9_r83epM_Vbh-IIK&_nc_zt=23&_nc_ht=scontent.fcgy1-2.fna&_nc_gid=Ag-Q2ewgcea0jFyDw9g7Qdq&oh=00_AYAf9h-Tv2lt5Ka7hbDuPOwf_vQEfGCYjTQZK50lHp7HaQ&oe=67B9F54C" alt="Project 2">
+                    <h3>Virtual Graduation</h3>
+                    <p>I specialize in organizing and managing virtual graduation events, creating seamless and memorable experiences for graduates and their families. From selecting the right platform and coordinating schedules to producing engaging content and interactive elements, I ensure a smooth and professional online ceremony that celebrates academic achievements. My approach combines attention to detail, technical expertise, and creative solutions to make every virtual graduation an event to remember.</p>
+                    <a href="https://www.facebook.com/GingoogCityCollegesInc/videos/200257845288296" target="_blank">View on Facebook</a>
+                </div>
 
+                <div class="project">
+                    <img src="preview.png" alt="Project 3">
+                    <h3>eCommerce Website</h3>
+                    <p>This project involves the development of a feature-rich and responsive e-commerce website built on Magento 2, providing a seamless shopping experience for customers. The platform offers a range of advanced e-commerce functionalities, including flexible product catalog management, secure payment gateways, and customizable storefronts. It ensures a user-friendly interface, making it easy for shoppers to navigate through products, place orders, and complete transactions securely. The site is hosted on spruce.ph, ensuring reliable performance and high uptime for an uninterrupted shopping experience.</p>
+                    <a href="http://spruce.ph" target="_blank" rel="noopener noreferrer">View on Website</a>
+                </div>
+                <!-- Project End Here -->
             </div>
         </div>
     </section>
@@ -83,13 +89,15 @@
 
     <footer>
         <div class="container">
-            <p>&copy; 2025 Lyjieme Barro. All Rights Reserved.</p>
+            <p>&copy; <b id="year"></b> Lyjieme Barro. All Rights Reserved.</p>
         </div>
     </footer>
 
     <!-- You can add your scripts here -->
-    <script type="javascript">
-
+    <script type="text/javascript">
+        const currentYear = new Date().getFullYear();
+        const tag = document.querySelector("#year");
+        tag.innerHTML = currentYear;
     </script>
 </body>
 </html>
